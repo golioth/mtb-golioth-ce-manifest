@@ -1,0 +1,18 @@
+<apps version="2.0">
+  <app keywords="psoc6,golioth" req_capabilities_v2="[cy8ckit_062s2_43012]">
+    <name>Golioth Example</name>
+    <category>Wi-Fi</category>
+    <id>mtb-example-golioth</id>
+    <uri>https://github.com/golioth/mtb-example-golioth</uri>
+    <description><![CDATA[This code example demonstrates the integration of Golioth with PSoC™ 6 Wi-Fi BT Prototyping Kit.
+    <br><br>For more details, see the <a href="https://github.com/golioth/mtb-example-golioth/blob/master/README.md">README on GitHub</a>.
+    <br><br><a href="https://golioth.io/">Golioth</a> is a commercial IoT development platform built for scale.]]></description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.4.0" req_capabilities_per_version="bsp_gen3">
+        <num>1.0.2</num>
+        <commit>1.0.2</commit>
+      </version>
+    </versions>
+  </app>
+</apps>
