@@ -10,8 +10,8 @@
     <req_capabilities>psoc6 led switch std_crypto</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
-        <num>v2.0.1</num>
-        <commit>v2.0.1</commit>
+        <num>v2.1.0</num>
+        <commit>v2.1.0</commit>
       </version>
       <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
         <num>v1.1.1</num>
