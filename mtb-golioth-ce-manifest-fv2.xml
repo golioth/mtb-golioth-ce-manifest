@@ -1,5 +1,5 @@
 <apps version="2.0">
-  <app keywords="psoc6,dfu,bootloader,mtb-flow,golioth" req_capabilities_v2="psoc6 led switch std_crypto [cy8ckit_062_wifi_bt, cy8ckit_062s2_43012, cy8cproto_062_4343w, cy8cproto_062s3_4343w]">
+  <app keywords="psoc6,dfu,bootloader,mtb-flow,golioth" req_capabilities_v2="psoc6 led switch std_crypto [cy8ckit_062_wifi_bt, cy8ckit_062s2_43012, cy8cproto_062_4343w]">
     <name>Golioth Example</name>
     <category>Wi-Fi</category>
     <id>mtb-example-golioth</id>
