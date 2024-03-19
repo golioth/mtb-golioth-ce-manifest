@@ -4,7 +4,7 @@
     <category>Wi-Fi</category>
     <id>mtb-example-golioth</id>
     <uri>https://github.com/golioth/mtb-example-golioth</uri>
-    <description><![CDATA[This code example demonstrates the integration of Golioth with PSoC™ 6 Wi-Fi BT Prototyping Kit.
+    <description><![CDATA[This code example demonstrates the integration of Golioth with PSoC&#8482; 6 Wi-Fi BT Prototyping Kit.
     <br><br>For more details, see the <a href="https://github.com/golioth/mtb-example-golioth/blob/master/README.md">README on GitHub</a>.
     <br><br><a href="https://golioth.io/">Golioth</a> is a commercial IoT development platform built for scale.]]></description>
     <req_capabilities>psoc6 led switch std_crypto</req_capabilities>
